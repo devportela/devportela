@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Gustavo Portela de Lima! 👋 </h1>
 
-🎓 Estudante do curso de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca de me tornar um Desenvolvedor Full Stack.
+🎓 Estudante do curso de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca de me tornar um Desenvolvedor ou um Engenheiro De Software.
 
 <h1> About Me   🌟</h1>
 
