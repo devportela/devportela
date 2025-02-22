@@ -2,7 +2,7 @@
 
 🎓 Estudante do curso de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca de me tornar um Desenvolvedor ou um Engenheiro De Software.
 
-<h1> About Me   🌟</h1>
+<h1> Sobre Mim   🌟</h1>
 
 - 🔭 Estou atualmente trabalhando em um projeto acadêmico para um componente curricular.  
 - 🌱 Estudo e trabalho com: **HTML, CSS, JavaScript, PHP e MySQL**.  
