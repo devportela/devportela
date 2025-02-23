@@ -23,8 +23,8 @@
 - ⏱️ Excelente em gestão de tempo e organização de tarefas
 
 <h2>Habilidades Técnicas 💻 </h2>
-- Frameworks: Bootstrap, Tailwind CSS
-- Feramentas: Git, Github,Vs Code,Android Studio,PhpMyAdmin,Intelijj
+- Frameworks: Bootstrap, Tailwind CSS <br>
+- Ferramentas: Git, Github,Vs Code,Android Studio,PhpMyAdmin,Intelijj <br>
 - Metodologias:Agile, Scrum
 
 
