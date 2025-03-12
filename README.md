@@ -13,7 +13,7 @@
 <h1>Minhas Competências </h1>
 
 - 🎯 Focado(a) e Prático(a)  
-- 💡 Ágil e Comunicativo(a)  
+- 💡 Ágil(a)  
 - 🧑‍🏫 Capaz de assumir a liderança  
 - 🧩 Habilidade em solucionar problemas  
 - 📚 Cursando Inglês para aprimorar a comunicação 
