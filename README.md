@@ -32,7 +32,7 @@
 
 ## **Idiomas**  
 - 🌐 **Português** - Nativo  
-- 🇺🇸 **Inglês** - Intermediário
+- 🇺🇸 **Inglês** - Fluente
 
 
 
