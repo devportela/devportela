@@ -24,7 +24,7 @@
 
 <h2>Habilidades Técnicas 💻 </h2>
 - Frameworks: Bootstrap, Tailwind CSS <br>
-- Ferramentas: Git, Github,Vs Code,Android Studio,PhpMyAdmin,Intelijj <br>
+- Ferramentas: Git,Github,Vs Code,Android Studio,PhpMyAdmin,Intelijj <br>
 - Metodologias:Agile, Scrum
 
 
