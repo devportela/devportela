@@ -2,7 +2,7 @@
 
 🎓 Estudante do curso de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca de me tornar um Desenvolvedor Full-Stack ou um Engenheiro De Software.
 
-<h1> Sobre Mim   🌟</h1>
+<h1> Sobre🌟</h1>
 
 - 🔭 Estou atualmente trabalhando em um projeto acadêmico para um componente curricular.  
 - 🌱 Estudo  diversas linguagens diferentes.
