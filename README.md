@@ -32,9 +32,8 @@
 - 🌐 **Português** - Nativo  
 - 🇺🇸 **Inglês** - Fluente  
 
----
-
-## 🛠️ Linguagens e Frameworks
+----
+## 🛠️ Tech Stack
 
 <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; display: flex; gap: 15px; justify-content: center; background-color: #f9f9f9;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
