@@ -49,12 +49,6 @@
 
 ---
 
-## ⏱️ Meu tempo de codificação nos últimos 7 dias
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ## 📊 Estatísticas do GitHub
 
