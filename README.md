@@ -72,4 +72,3 @@
 
 ---
 
-*Atualizado com amor e foco por Gustavo Portela 💻*
