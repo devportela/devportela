@@ -5,8 +5,7 @@
 ---
 
 ## Sobre 🌟
-
-- 🔭 Atualmente trabalhando em um projeto acadêmico para um componente curricular  
+  
 - 🌱 Estudo diversas linguagens diferentes  
 - 🎯 Objetivo: Aprender cada vez mais e contribuir com projetos incríveis no universo Full Stack  
 - ⚡ Fato interessante: Sou curioso e gosto de entender como as tecnologias se conectam para criar soluções completas  
