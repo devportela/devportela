@@ -7,7 +7,7 @@
 ## Sobre 🌟
   
 - 🌱 Estudo diversas linguagens diferentes  
-- 🎯 Objetivo: Aprender cada vez mais e contribuir com projetos incríveis no universo da Tecnologia!
+- 🎯 Objetivo: Aprender cada vez mais e contribuir com projetos incríveis no área da Tecnologia!
 - ⚡ Fato interessante: Sou curioso e gosto de entender como as tecnologias se conectam para criar soluções completas  
 - 🚀 Sempre em busca de novos desafios e oportunidades de aprendizado  
 
