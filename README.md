@@ -13,7 +13,9 @@
 
 ---
 
-## Minhas Competências
+
+##   Minhas Competências
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 - 🎯 Focado  
 - 💡 Ágil  
@@ -23,6 +25,7 @@
 - 🔄 Adaptável e pronto para encarar novos desafios  
 - 🤝 Bom relacionamento em equipe  
 - ⏱️ Excelente em gestão de tempo e organização de tarefas  
+
 
 ---
 
