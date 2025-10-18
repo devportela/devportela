@@ -75,7 +75,7 @@
 - 📧 **E-mail:** [gustavoportelawork@gmail.com](mailto:gustavoportelawork@gmail.com)  
 - 📱 **Telefone:** +55 11 96818-1817  
 - 📸 **Instagram:** [@gustavopl_7](https://www.instagram.com/gustavopl_7)  
-- 💼 **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/gustavo-portela-21aab738a)
+- 💼 **LinkedIn:** [](https://www.linkedin.com/in/gustavo-portela-21aab738a)
 
 ---
 
