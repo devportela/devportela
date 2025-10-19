@@ -65,8 +65,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devportela&showicons=true&theme=dark)  
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=devportela&theme=dark&hide_border=false)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devportela&show_icons=true&theme=dark&cache_bust=20251019_1000)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=devportela&theme=dark&hide_border=false&date=2025-10-19)
 
 
 ---
