@@ -59,16 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-
-
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devportela&show_icons=true&theme=dark&cache_bust=20251019_1000)
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=devportela&theme=dark&hide_border=false&date=2025-10-19)
-
-
 ---
 
 ## 📬 Contato
