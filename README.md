@@ -43,7 +43,7 @@
 
 ## 📬 Contato
 
-  <!-- 🌐 Portfólio: https://devportela.github.io/SitePortifolio/  disponiblizar quando finalizar-->
+- 🌐 Portfólio: https://devportela.github.io/SitePortifolio/
 - 📧 E-mail: [gustavoportelawork@gmail.com](mailto:gustavoportelawork@gmail.com)   
 - 📱 Telefone: +55 11 96818-1817  
 - 📸 Instagram: [@gustavopl_7](https://www.instagram.com/gustavopl_7)  
