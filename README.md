@@ -46,7 +46,7 @@
 <!-- - 🌐 Portfólio: https://gustavoportela-site-portifolio.vercel.app/ -->
 - 📧 E-mail: [gustavoportelawork@gmail.com](mailto:gustavoportelawork@gmail.com)   
 - 📱 Telefone: +55 11 96818-1817  
-- 📸 Instagram: [@gustavopl_7](https://www.instagram.com/gustavopl_7)  
+- 📸 Instagram: [@gustavoportela._](https://www.instagram.com/gustavoportela._)  
 - 💼 LinkedIn: [Gustavo Portela](https://www.linkedin.com/in/gustavo-portela-21aab738a)
 
 ---
