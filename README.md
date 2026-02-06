@@ -37,7 +37,7 @@
 ----
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,mysql,php,python,spring,java,idea,git)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mysql,php,python,spring,java,idea,git)
 
 ---
 
